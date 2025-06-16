@@ -3,7 +3,7 @@
 
 - 📝 I regularly write articles on [linkedin](linkedin)
 
-- 💬 Ask me about Linux System Administration, Cybersecurity, Penetration Testing, Networking, Python, Cloud Computing.**
+- 💬 Ask me about Linux System Administration, Cybersecurity, Penetration Testing, Networking, Python, Cloud Computing.
 
 - 📫 How to reach me **abidimednadhir@gmail.com**
 
