@@ -1,13 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Nadhir+Abidi;Cybersecurity+Engineering+Student;Penetration+Tester+%7C+Network+Security+Engineer;Building+PentestIQ+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Nadhir+Abidi;Cybersecurity+Engineering+Student;Penetration+Tester+%7C+Network+Security+Engineer" alt="Typing SVG" />
 
 ### 🛡️ Cybersecurity Engineer | Penetration Tester | Network Security | System Hardening
 
 🎓 Cybersecurity Engineering Student @ TEK-UP University, Tunis
 ⚔️ Offensive Security enthusiast — from recon to full compromise
 🌐 Network Security architect — from routing protocols to enterprise hardening
-🤖 Builder of **PentestIQ** — Risk-Oriented Automated Pentest Platform
 🏅 eJPTv2 | RHCE | RHCSA | PCAP Certified
 
 </div>
@@ -23,10 +22,17 @@ I specialize in:
 * ⚔️ Penetration Testing & Vulnerability Exploitation
 * 🌐 Network Security Engineering (Routing, VPN, IPS, AAA, MPLS)
 * 🏰 Active Directory Security & Windows Attack Chains
-* 🌍 Web Application Security (OWASP Top 10)
 * 🔐 Linux & Windows System Hardening
+* 🌍 Web Application Security (OWASP Top 10)
 * 🤖 Security Automation & Risk-Oriented Assessment
 * 📡 Enterprise Network Architecture Design
+
+Currently working on:
+
+* 🤖 **PentestIQ** — Automated pentest platform performing full attack cycles (recon → exploitation → risk scoring) with threat intelligence enrichment and PDF reporting, deployed via a full DevSecOps pipeline
+* 🌐 Multi-site enterprise network with IP/MPLS backbone, VRF-based VPN isolation, dual-firewall HA, IPS, AAA/RADIUS and SNMPv3 monitoring
+* 🏰 Active Directory lab — simulating and mitigating Kerberoasting, Pass-the-Hash, and GPO misconfigurations
+* 📜 Advancing toward OSCP and advanced red team certifications
 
 I enjoy thinking like an attacker to design systems that are genuinely hard to break — not just compliant on paper.
 
@@ -38,18 +44,22 @@ I enjoy thinking like an attacker to design systems that are genuinely hard to b
 * 🔴 Red Hat Certified Engineer (RHCE) — Red Hat
 * 🔒 Red Hat Certified System Administrator (RHCSA) — Red Hat
 * 🐍 Python Certified Associate Programmer (PCAP) — Python Institute
+* 🌐 7x Cisco Certifications
 
 ---
 
 ## 🧰 Tech Stack
 
 ### ⚔️ Pentesting & Offensive Security
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-3AABD2?style=for-the-badge&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-CC0000?style=for-the-badge&logoColor=white)
+![Impacket](https://img.shields.io/badge/Impacket-1A1A2E?style=for-the-badge&logoColor=white)
+![Netexec](https://img.shields.io/badge/Netexec-2D2D2D?style=for-the-badge&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3AABD2?style=for-the-badge&logoColor=white)
 
 ### 🌐 Networking & Infrastructure
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
@@ -57,33 +67,44 @@ I enjoy thinking like an attacker to design systems that are genuinely hard to b
 ![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logoColor=white)
+![OSPF](https://img.shields.io/badge/OSPF-0078A0?style=for-the-badge&logoColor=white)
+![IPSec](https://img.shields.io/badge/IPSec_VPN-005C99?style=for-the-badge&logoColor=white)
+![MPLS](https://img.shields.io/badge/IP%2FMPLS-6A0DAD?style=for-the-badge&logoColor=white)
+![SNMP](https://img.shields.io/badge/SNMPv3-FF8C00?style=for-the-badge&logoColor=white)
 
-### 🔐 Systems & Virtualization
+### 🔐 Systems, AD & Virtualization
 ![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
-### 🤖 Automation, DevSecOps & Cloud
+### 🤖 Programming, Automation & DevSecOps
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Scapy](https://img.shields.io/badge/Scapy-005C8A?style=for-the-badge&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
+> ⚠️ *Most of my work lives in private repositories — the stats below reflect only public activity.*
+
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbidiMedNadhir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbidiMedNadhir&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbidiMedNadhir&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbidiMedNadhir&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
