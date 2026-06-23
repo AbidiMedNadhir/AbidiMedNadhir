@@ -11,7 +11,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=800&color=E63946&center=true&vCenter=true&multiline=false&width=680&lines=eJPTv2+%7C+RHCE+%7C+RHCSA+%7C+PCAP+%7C+7%C3%97+Cisco+Certified;Offensive+Security+%7C+Network+Hardening+%7C+DevSecOps;%E2%86%92+Targeting+OSCP" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=E63946&background=00000000&center=true&vCenter=true&multiline=false&width=750&lines=Mohamed+Nadhir+Abidi;eJPTv2+%7C+RHCE+%7C+RHCSA+%7C+PCAP+%7C+;Offensive+Security+%7C+Network+Hardening+%7C+Security+Engineering" alt="Typing SVG" />
 
 <br/>
 
@@ -133,13 +133,12 @@ I am a cybersecurity engineer with a dual focus on **attacking and defending**. 
 
 ## 📈 Current Focus
 
-```text
 ⚔️  Penetration Testing & Advanced Red Team Techniques
 🌐  Secure Enterprise Architecture & Network Protocol Hardening  
 🤖  SOC Automation & Security Orchestration (SOAR)
 🐧  Linux Infrastructure Security & System Hardening
 📋  Information Security Governance & Risk Management Frameworks
-```
+
 
 ---
 
