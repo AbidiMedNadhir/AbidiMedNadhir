@@ -11,14 +11,13 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=E63946&background=00000000&center=true&vCenter=true&multiline=false&width=750&lines=Mohamed+Nadhir+Abidi;eJPTv2+%7C+RHCE+%7C+RHCSA+%7C+PCAP+%7C+;Offensive+Security+%7C+Network+Hardening+%7C+Security+Engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=E63946&background=00000000&center=true&vCenter=true&multiline=false&width=750&lines=Mohamed+Nadhir+Abidi;eJPTv2+%7C+RHCE+%7C+RHCSA+%7C+PCAP;Offensive+Security+%7C+Network+Hardening+%7C+Security+Auditing;" alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/nadhir-abidi-95837325b)&nbsp;
 [![Gmail](https://img.shields.io/badge/%20abidimednadhir%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:abidimednadhir@gmail.com)&nbsp;
 [![GitHub](https://img.shields.io/github/followers/AbidiMedNadhir?style=flat-square&label=GitHub&logo=github&logoColor=white&labelColor=161b22&color=30363d)](https://github.com/AbidiMedNadhir)&nbsp;
-![Visitors](https://komarev.com/ghpvc/?username=AbidiMedNadhir&style=flat-square&color=E63946&label=Profile+Views)
 
 </div>
 
@@ -34,7 +33,7 @@ I am a cybersecurity engineer with a dual focus on **attacking and defending**. 
 
 ---
 
-## 🏆 Certifications
+## 🏆 Professional Certifications
 
 <div align="center">
 
