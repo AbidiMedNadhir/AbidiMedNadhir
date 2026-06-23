@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2800&pause=900&color=E63946&background=00000000&center=true&vCenter=true&width=600&lines=Offensive+Security+%7C+Network+Hardening+%7C+Security+Auditing;eJPTv2+%7C+RHCE+%7C+RHCSA+%7C+PCAP+%7C+Targeting+OSCP" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=900&color=E63946&background=00000000&center=true&vCenter=true&width=600&lines=Offensive+Security+%7C+Network+Hardening+%7C+Security+Auditing;eJPTv2+%7C+RHCE+%7C+RHCSA+%7C+PCAP" alt="Typing SVG" />
 
 <br/>
 
