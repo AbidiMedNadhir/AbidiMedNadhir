@@ -4,14 +4,11 @@
       ║           HEADER — SVG BANNER                ║
       ╚══════════════════════════════════════════════╝ -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2d0a0a,100:6b1010&height=200&section=header&text=Mohamed%20Nadhir%20Abidi&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Engineer%20%E2%80%A2%20Penetration%20Tester%20%E2%80%A2%20Network%20Security&descAlignY=60&descSize=14&descColor=e63946&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b1010,50:2d0a0a,100:0d1117&height=200&section=header&text=Mohamed%20Nadhir%20Abidi&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Engineer%20%E2%80%A2%20Penetration%20Tester%20%E2%80%A2%20Network%20Security&descAlignY=60&descSize=14&descColor=e63946&animation=fadeIn" width="100%">
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:3d0808,100:6b1010&height=220&section=header&text=Mohamed%20Nadhir%20Abidi&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Cybersecurity%20Engineer%20%7C%20Penetration%20Tester%20%7C%20Network%20Security&descAlignY=62&descSize=15&descColor=e63946&animation=fadeIn" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=E63946&background=00000000&center=true&vCenter=true&multiline=false&width=750&lines=Mohamed+Nadhir+Abidi;Offensive+Security+%7C+Network+Hardening+%7C+Security+Auditing;eJPTv2+%7C+RHCE+%7C+RHCSA+%7C+PCAP" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=E63946&background=00000000&center=true&vCenter=true&width=600&lines=Offensive+Security+%7C+Network+Hardening+%7C+Security+Auditing;eJPTv2+%7C+RHCE+%7C+RHCSA+%7C+PCAP+%7C+Targeting+OSCP" alt="Typing SVG" />
 
 <br/>
 
@@ -132,17 +129,13 @@ I am a cybersecurity engineer with a dual focus on **attacking and defending**. 
 
 ## 📈 Current Focus
 
+```text
 ⚔️  Penetration Testing & Advanced Red Team Techniques
-
 🌐  Secure Enterprise Architecture & Network Protocol Hardening  
-
 🤖  SOC Automation & Security Orchestration (SOAR)
-
 🐧  Linux Infrastructure Security & System Hardening
-
 📋  Information Security Governance & Risk Management Frameworks
-
-
+```
 
 ---
 
