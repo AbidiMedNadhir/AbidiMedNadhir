@@ -5,13 +5,13 @@
       ╚══════════════════════════════════════════════╝ -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0a0f,100:2d0f15&height=200&section=header&text=Mohamed%20Nadhir%20Abidi&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Engineer%20%E2%80%A2%20Penetration%20Tester%20%E2%80%A2%20Network%20Security&descAlignY=60&descSize=14&descColor=e63946&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:3d0808,100:6b0f0f&height=200&section=header&text=Mohamed%20Nadhir%20Abidi&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Engineer%20%E2%80%A2%20Penetration%20Tester%20%E2%80%A2%20Network%20Security&descAlignY=60&descSize=14&descColor=ffcccc&animation=fadeIn" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2d0a0a,100:6b1010&height=200&section=header&text=Mohamed%20Nadhir%20Abidi&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Engineer%20%E2%80%A2%20Penetration%20Tester%20%E2%80%A2%20Network%20Security&descAlignY=60&descSize=14&descColor=e63946&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b1010,50:2d0a0a,100:0d1117&height=200&section=header&text=Mohamed%20Nadhir%20Abidi&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Engineer%20%E2%80%A2%20Penetration%20Tester%20%E2%80%A2%20Network%20Security&descAlignY=60&descSize=14&descColor=e63946&animation=fadeIn" width="100%">
 </picture>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=E63946&background=00000000&center=true&vCenter=true&multiline=false&width=750&lines=Mohamed+Nadhir+Abidi;eJPTv2+%7C+RHCE+%7C+RHCSA+%7C+PCAP;Offensive+Security+%7C+Network+Hardening+%7C+Security+Auditing;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=E63946&background=00000000&center=true&vCenter=true&multiline=false&width=750&lines=Mohamed+Nadhir+Abidi;Offensive+Security+%7C+Network+Hardening+%7C+Security+Auditing;eJPTv2+%7C+RHCE+%7C+RHCSA+%7C+PCAP" alt="Typing SVG" />
 
 <br/>
 
@@ -33,7 +33,7 @@ I am a cybersecurity engineer with a dual focus on **attacking and defending**. 
 
 ---
 
-## 🏆 Professional Certifications
+## 🏆 Certifications
 
 <div align="center">
 
@@ -111,12 +111,12 @@ I am a cybersecurity engineer with a dual focus on **attacking and defending**. 
 
 ### ⚙️ Automation & Infrastructure
 
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ### ☁️ Cloud & DevSecOps
@@ -133,10 +133,15 @@ I am a cybersecurity engineer with a dual focus on **attacking and defending**. 
 ## 📈 Current Focus
 
 ⚔️  Penetration Testing & Advanced Red Team Techniques
+
 🌐  Secure Enterprise Architecture & Network Protocol Hardening  
+
 🤖  SOC Automation & Security Orchestration (SOAR)
+
 🐧  Linux Infrastructure Security & System Hardening
+
 📋  Information Security Governance & Risk Management Frameworks
+
 
 
 ---
