@@ -41,62 +41,23 @@ I am a cybersecurity engineer with a dual focus on **attacking and defending**. 
 
 ### ⚔️ Pentesting & Offensive Security
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white)
-![Impacket](https://img.shields.io/badge/Impacket-333333?style=for-the-badge&logoColor=white)
-![CrackMapExec](https://img.shields.io/badge/CrackMapExec-CC0000?style=for-the-badge&logoColor=white)
-
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Impacket](https://img.shields.io/badge/Impacket-333333?style=for-the-badge&logoColor=white) ![CrackMapExec](https://img.shields.io/badge/CrackMapExec-CC0000?style=for-the-badge&logoColor=white) ![BloodHound](https://img.shields.io/badge/BloodHound-CC0000?style=for-the-badge&logoColor=white) ![Mimikatz](https://img.shields.io/badge/Mimikatz-1a1a2e?style=for-the-badge&logoColor=white) ![Responder](https://img.shields.io/badge/Responder-2C2C2C?style=for-the-badge&logoColor=white) ![Hydra](https://img.shields.io/badge/Hydra-FF0000?style=for-the-badge&logoColor=white) ![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logoColor=white) ![John the Ripper](https://img.shields.io/badge/John_the_Ripper-2C2C2C?style=for-the-badge&logoColor=white) ![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logoColor=white) ![Nikto](https://img.shields.io/badge/Nikto-4B0082?style=for-the-badge&logoColor=white) ![ffuf](https://img.shields.io/badge/ffuf-E63946?style=for-the-badge&logoColor=white) ![Nuclei](https://img.shields.io/badge/Nuclei-00ADD8?style=for-the-badge&logoColor=white) ![LinPEAS](https://img.shields.io/badge/LinPEAS-FCC624?style=for-the-badge&logoColor=black) ![WinPEAS](https://img.shields.io/badge/WinPEAS-0078D4?style=for-the-badge&logoColor=white)
 
 ### 🔵 Security Operations & SIEM
 
-![Wazuh](https://img.shields.io/badge/Wazuh-3AABD2?style=for-the-badge&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![TheHive](https://img.shields.io/badge/TheHive-FFAE33?style=for-the-badge&logoColor=black)
+![Wazuh](https://img.shields.io/badge/Wazuh-3AABD2?style=for-the-badge&logoColor=white) ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white) ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white) ![TheHive](https://img.shields.io/badge/TheHive-FFAE33?style=for-the-badge&logoColor=black)
 
 ### 🌐 Networking & Infrastructure
 
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white)
-![IPSec](https://img.shields.io/badge/IPSec_VPN-005C99?style=for-the-badge&logoColor=white)
-![MPLS](https://img.shields.io/badge/IP%2FMPLS-6A0DAD?style=for-the-badge&logoColor=white)
-![OSPF](https://img.shields.io/badge/OSPF-0078A0?style=for-the-badge&logoColor=white)
-![BGP](https://img.shields.io/badge/BGP-003366?style=for-the-badge&logoColor=white)
-![Suricata](https://img.shields.io/badge/Suricata-EF7C00?style=for-the-badge&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logoColor=white)
-![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-8B0000?style=for-the-badge&logoColor=white)
-![SNMPv3](https://img.shields.io/badge/SNMPv3-FF8C00?style=for-the-badge&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logoColor=white)
-![AAA/RADIUS](https://img.shields.io/badge/AAA%2FRADIUS-6B5B95?style=for-the-badge&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logoColor=white) ![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white) ![IPSec](https://img.shields.io/badge/IPSec_VPN-005C99?style=for-the-badge&logoColor=white) ![MPLS](https://img.shields.io/badge/IP%2FMPLS-6A0DAD?style=for-the-badge&logoColor=white) ![OSPF](https://img.shields.io/badge/OSPF-0078A0?style=for-the-badge&logoColor=white) ![BGP](https://img.shields.io/badge/BGP-003366?style=for-the-badge&logoColor=white) ![Suricata](https://img.shields.io/badge/Suricata-EF7C00?style=for-the-badge&logoColor=white) ![Snort](https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logoColor=white) ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-8B0000?style=for-the-badge&logoColor=white) ![SNMPv3](https://img.shields.io/badge/SNMPv3-FF8C00?style=for-the-badge&logoColor=white) ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logoColor=white) ![AAA/RADIUS](https://img.shields.io/badge/AAA%2FRADIUS-6B5B95?style=for-the-badge&logoColor=white)
 
 ### ⚙️ Automation & Infrastructure
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) ![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ### ☁️ Cloud & DevSecOps
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Harbor](https://img.shields.io/badge/Harbor-60B932?style=for-the-badge&logo=harbor&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logoColor=white)
-![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![HashiCorp Vault](https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
-![Bandit](https://img.shields.io/badge/Bandit-FFD43B?style=for-the-badge&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Harbor](https://img.shields.io/badge/Harbor-60B932?style=for-the-badge&logo=harbor&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white) ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logoColor=white) ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white) ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white) ![HashiCorp Vault](https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![Bandit](https://img.shields.io/badge/Bandit-FFD43B?style=for-the-badge&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -121,20 +82,17 @@ I am a cybersecurity engineer with a dual focus on **attacking and defending**. 
 
 <br/>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AbidiMedNadhir&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e63946&icon_color=e63946&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github&custom_title=GitHub%20Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbidiMedNadhir&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e63946&text_color=c9d1d9&langs_count=6&hide=html,css,makefile&custom_title=Top%20Languages" />
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=AbidiMedNadhir&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e63946&icon_color=e63946&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github&custom_title=GitHub+Stats&cache_seconds=1800" height="180" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbidiMedNadhir&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e63946&text_color=c9d1d9&langs_count=6&hide=html,css,makefile&custom_title=Top+Languages&cache_seconds=1800" height="180" />
 
-<br/>
+<br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbidiMedNadhir&bg_color=0d1117&color=e63946&line=e63946&point=ffffff&area=true&area_color=3d0808&hide_border=true&title_color=e63946&custom_title=Contribution%20Graph" />
+<img src="https://streak-stats.demolab.com?user=AbidiMedNadhir&theme=github-dark&hide_border=true&background=0d1117&ring=e63946&fire=e63946&currStreakLabel=e63946&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" height="180" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbidiMedNadhir&bg_color=0d1117&color=e63946&line=e63946&point=ffffff&area=true&area_color=3d0808&hide_border=true&custom_title=Contribution+Graph" width="95%" />
 
 </div>
 
