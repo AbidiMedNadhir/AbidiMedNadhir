@@ -27,13 +27,13 @@ I am a cybersecurity engineer with a dual focus on **attacking and defending**. 
 ## 🏆 Professional Certifications
 
 - 🎯 **INE eLearnSecurity Junior Penetration Tester (eJPTv2)** — [Credential](https://certs.ine.com/26ff3ee8-42b2-4cd2-8f8d-0dfa0457026a#acc.8XPVUgu5)
-- 🔒 **Red Hat Certified System Administrator (RHCSA)** — [Credential](https://www.credly.com/earner/earned/badge/99a690e8-f3fb-4f91-9690-b06ebdb88e45)
-- 🔴 **Red Hat Certified Engineer (RHCE)** — [Credential](https://www.credly.com/earner/earned/badge/9a4e3e04-bef5-4220-b4dc-67393950e4a6)
-- 💻 **Certified Associate Python Programmer (PCAP)** — [Credential](https://www.credly.com/earner/earned/badge/18ab0950-51e2-4fdc-8078-6a99a40811b6)
-- 🔭 **ISO/IEC 27001:2022 Lead Auditor** — [Credential](https://www.credly.com/earner/earned/badge/75fdb06c-cc8f-4d28-9ba3-0b4e4e508461)
-- 🔭 **ISO/IEC 27701:2025 Lead Auditor** — [Credential](https://www.credly.com/earner/earned/badge/d886003e-08f3-48c2-980e-28312e6c1dfb)
+- 🔒 **Red Hat Certified System Administrator (RHCSA)** — [Credential](https://www.credly.com/badges/99a690e8-f3fb-4f91-9690-b06ebdb88e45/public_url)
+- 🔴 **Red Hat Certified Engineer (RHCE)** — [Credential](https://www.credly.com/badges/9a4e3e04-bef5-4220-b4dc-67393950e4a6/public_url)
+- 💻 **Certified Associate Python Programmer (PCAP)** — [Credential](https://www.credly.com/badges/18ab0950-51e2-4fdc-8078-6a99a40811b6/public_url)
+- 🔭 **ISO/IEC 27001:2022 Lead Auditor** — [Credential](https://www.credly.com/badges/75fdb06c-cc8f-4d28-9ba3-0b4e4e508461/public_url)
+- 🔭 **ISO/IEC 27701:2025 Lead Auditor** — [Credential](https://www.credly.com/badges/d886003e-08f3-48c2-980e-28312e6c1dfb/public_url)
 - 🛡️ **Centri Certified Blue Team Junior Analyst (BTJA)** — [Credential](https://elearning.centri.org/home/certificate/893209776)
-- 🌐 **Cyber Threat Management** — [Credential](https://www.credly.com/earner/earned/badge/23b788ef-1f76-4485-969f-6e442be126e0)
+- 🌐 **Cyber Threat Management** — [Credential](https://www.credly.com/badges/23b788ef-1f76-4485-969f-6e442be126e0/public_url)
 
 ---
 
@@ -41,7 +41,7 @@ I am a cybersecurity engineer with a dual focus on **attacking and defending**. 
 
 ### ⚔️ Pentesting & Offensive Security
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Impacket](https://img.shields.io/badge/Impacket-333333?style=for-the-badge&logoColor=white) ![CrackMapExec](https://img.shields.io/badge/CrackMapExec-CC0000?style=for-the-badge&logoColor=white) ![BloodHound](https://img.shields.io/badge/BloodHound-CC0000?style=for-the-badge&logoColor=white) ![Mimikatz](https://img.shields.io/badge/Mimikatz-1a1a2e?style=for-the-badge&logoColor=white) ![Responder](https://img.shields.io/badge/Responder-2C2C2C?style=for-the-badge&logoColor=white) ![Hydra](https://img.shields.io/badge/Hydra-FF0000?style=for-the-badge&logoColor=white) ![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logoColor=white) ![John the Ripper](https://img.shields.io/badge/John_the_Ripper-2C2C2C?style=for-the-badge&logoColor=white) ![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logoColor=white) ![Nikto](https://img.shields.io/badge/Nikto-4B0082?style=for-the-badge&logoColor=white) ![ffuf](https://img.shields.io/badge/ffuf-E63946?style=for-the-badge&logoColor=white) ![Nuclei](https://img.shields.io/badge/Nuclei-00ADD8?style=for-the-badge&logoColor=white) ![LinPEAS](https://img.shields.io/badge/LinPEAS-FCC624?style=for-the-badge&logoColor=black) ![WinPEAS](https://img.shields.io/badge/WinPEAS-0078D4?style=for-the-badge&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white) ![Impacket](https://img.shields.io/badge/Impacket-333333?style=for-the-badge&logoColor=white) ![CrackMapExec](https://img.shields.io/badge/CrackMapExec-CC0000?
 
 ### 🔵 Security Operations & SIEM
 
@@ -49,7 +49,9 @@ I am a cybersecurity engineer with a dual focus on **attacking and defending**. 
 
 ### 🌐 Networking & Infrastructure
 
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logoColor=white) ![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white) ![IPSec](https://img.shields.io/badge/IPSec_VPN-005C99?style=for-the-badge&logoColor=white) ![MPLS](https://img.shields.io/badge/IP%2FMPLS-6A0DAD?style=for-the-badge&logoColor=white) ![OSPF](https://img.shields.io/badge/OSPF-0078A0?style=for-the-badge&logoColor=white) ![BGP](https://img.shields.io/badge/BGP-003366?style=for-the-badge&logoColor=white) ![Suricata](https://img.shields.io/badge/Suricata-EF7C00?style=for-the-badge&logoColor=white) ![Snort](https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logoColor=white) ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-8B0000?style=for-the-badge&logoColor=white) ![SNMPv3](https://img.shields.io/badge/SNMPv3-FF8C00?style=for-the-badge&logoColor=white) ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logoColor=white) ![AAA/RADIUS](https://img.shields.io/badge/AAA%2FRADIUS-6B5B95?style=for-the-badge&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logoColor=white)
+[Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) 
+![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white) ![IPSec](https://img.shields.io/badge/IPSec_VPN-005C99?style=for-the-badge&logoColor=white) ![IP/MPLS](https://img.shields.io/badge/IP%2FMPLS-6A0DAD?style=for-the-badge&logoColor=white) ![OSPF](https://img.shields.io/badge/OSPF-0078A0?style=for-the-badge&logoColor=white) ![BGP](https://img.shields.io/badge/BGP-003366?style=for-the-badge&logoColor=white) ![Suricata](https://img.shields.io/badge/Suricata-EF7C00?style=for-the-badge&logoColor=white) ![Snort](https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logoColor=white) ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-8B0000?style=for-the-badge&logoColor=white) ![SNMPv3](https://img.shields.io/badge/SNMPv3-FF8C00?style=for-the-badge&logoColor=white) ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logoColor=white) ![AAA/RADIUS](https://img.shields.io/badge/AAA%2FRADIUS-6B5B95?style=for-the-badge&logoColor=white)
 
 ### ⚙️ Automation & Infrastructure
 
@@ -57,20 +59,31 @@ I am a cybersecurity engineer with a dual focus on **attacking and defending**. 
 
 ### ☁️ Cloud & DevSecOps
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Harbor](https://img.shields.io/badge/Harbor-60B932?style=for-the-badge&logo=harbor&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white) ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logoColor=white) ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white) ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white) ![HashiCorp Vault](https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![Bandit](https://img.shields.io/badge/Bandit-FFD43B?style=for-the-badge&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![Harbor](https://img.shields.io/badge/Harbor-60B932?style=for-the-badge&logo=harbor&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white) 
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logoColor=white) 
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white) 
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white) 
+![HashiCorp Vault](https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black) 
+![Bandit](https://img.shields.io/badge/Bandit-FFD43B?style=for-the-badge&logoColor=black) 
 
 ---
 
 ## 📈 Current Focus
 
-```text
+\`\`\`text
 ⚔️  Penetration Testing & Advanced Red Team Techniques
 🌐  Secure Enterprise Architecture & Network Protocol Hardening
 🔵  Security Operations Center (SOC) & Threat Detection
 🕵️  Detection Engineering & Threat Hunting
 🐧  Linux Infrastructure Security & System Hardening
 📋  Information Security Governance & Risk Management Frameworks
-```
+\`\`\`
 
 ---
 
@@ -82,17 +95,17 @@ I am a cybersecurity engineer with a dual focus on **attacking and defending**. 
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbidiMedNadhir&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e63946&icon_color=e63946&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github&custom_title=GitHub+Stats&cache_seconds=1800" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=AbidiMedNadhir&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e63946&icon_color=e63946&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github&custom_title=GitHub+Stats" height="180" alt="GitHub Stats" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbidiMedNadhir&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e63946&text_color=c9d1d9&langs_count=6&hide=html,css,makefile&custom_title=Top+Languages&cache_seconds=1800" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbidiMedNadhir&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e63946&text_color=c9d1d9&langs_count=6&hide=html,css,makefile&custom_title=Top+Languages" height="180" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=AbidiMedNadhir&theme=github-dark&hide_border=true&background=0d1117&ring=e63946&fire=e63946&currStreakLabel=e63946&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" height="180" />
+<img src="https://streak-stats.demolab.com/?user=AbidiMedNadhir&theme=github-dark&hide_border=true&background=0d1117&ring=e63946&fire=e63946&currStreakLabel=e63946&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" height="180" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbidiMedNadhir&bg_color=0d1117&color=e63946&line=e63946&point=ffffff&area=true&area_color=3d0808&hide_border=true&custom_title=Contribution+Graph" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbidiMedNadhir&bg_color=0d1117&color=e63946&line=e63946&point=ffffff&area=true&area_color=3d0808&hide_border=true&custom_title=Contribution+Graph" width="95%" alt="Contribution Graph" />
 
 </div>
 
@@ -114,5 +127,5 @@ I am a cybersecurity engineer with a dual focus on **attacking and defending**. 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2d0f15,50:1a0a0f,100:0d1117&height=100&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b0f0f,50:3d0808,100:1a0000&height=100&section=footer" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b0f0f,50:3d0808,100:1a0000&height=100&section=footer" width="100%" alt="Footer">
 </picture>
