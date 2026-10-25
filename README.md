@@ -20,7 +20,7 @@
 
 🎓 **Cybersecurity Engineering Student** @ TEK-UP University, Tunis
 
-I am a cybersecurity engineer with a dual focus on **attacking and defending**. I combine offensive security expertise with deep systems knowledge to evaluate, design, and harden infrastructure that stands up under real adversarial pressure. My approach is rooted in technical rigor, threat-driven thinking, and a commitment to mastering every layer of a system — protocols, services, identities, and policies — before ever declaring it secure.
+I am a cybersecurity engineer with a dual focus on **attacking and defending**. I combine offensive security expertise with deep systems knowledge to evaluate, design, and harden infrastructure that stands up under real adversarial pressure. My approach is rooted in technical rigor, threat-driven thinking, and a commitment to mastering every layer of a system: protocols, services, identities, and policies, before ever declaring it secure.
 
 ---
 
